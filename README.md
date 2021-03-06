@@ -11,7 +11,7 @@
 
 -------
 
-<p align="center" style="display: flex; ">
+<p align="center" style="display: flex; flex-direction: row">
   <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=galter&layout=compact"
