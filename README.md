@@ -11,14 +11,13 @@
 
 -------
 
-<p align="center">
+<p align="center" style="display: flex; ">
   <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=galter&layout=compact"
     />
   <img
       align="center"
-      height="165"
       src="https://github-readme-stats.vercel.app/api?username=galter&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
 </p>
