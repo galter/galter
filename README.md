@@ -15,10 +15,12 @@
   <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=galter&layout=compact"
+       style="display: flex"
     />
   <img
       align="center"
       src="https://github-readme-stats.vercel.app/api?username=galter&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+       style="display: flex"
     />
 </p>
 
