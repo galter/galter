@@ -10,7 +10,7 @@
 - 🤝 Where to connect: [twitter.com/ehgalter](https://www.twitter.com/ehgalter)
 
 -------
-  <img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=galter&layout=compact" />
+  <p><img align="center"src="https://github-readme-stats.vercel.app/api/top-langs/?username=galter&layout=compact" /></p>
 
 [twitter]: https://twitter.com/ehgalter
 [instagram]: https://instagram.com/ehgalter
