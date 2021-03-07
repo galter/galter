@@ -14,7 +14,7 @@
 <p align="center" style="display: grid; grid-template-columns: 1fr 1fr;">
   <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=galter&layout=compact"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=tobiasvl&layout=compact"
        style="display: flex"
     />
   <img
