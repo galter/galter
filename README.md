@@ -10,22 +10,12 @@
 - 🤝 Where to connect: [twitter.com/ehgalter](https://www.twitter.com/ehgalter)
 
 -------
-
-<div style="
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-">
+<p>
   <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=galter&layout=compact"
-       style="display: flex"
     />
-  <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=galter&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-       style="display: flex"
-    />
-</div>
+</p>
 
 [twitter]: https://twitter.com/ehgalter
 [instagram]: https://instagram.com/ehgalter
