@@ -11,7 +11,7 @@
 
 -------
 
-<p align="center" style="display: grid; grid-template-columns: 1fr 1fr;">
+<div style="display: grid; grid-template-columns: 1fr 1fr;">
   <img
       align="center"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=galter&layout=compact"
@@ -22,7 +22,7 @@
       src="https://github-readme-stats.vercel.app/api?username=galter&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
        style="display: flex"
     />
-</p>
+</div>
 
 [twitter]: https://twitter.com/ehgalter
 [instagram]: https://instagram.com/ehgalter
