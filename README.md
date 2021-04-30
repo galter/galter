@@ -6,7 +6,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-ehgalter@gmail.com-3370cc?style=flat&logo=Gmail&logoColor=white&link=mailto:ehgalter@gmail.com)][mail]
 
 - 💼 I work at [Brixel](https://www.brixel.ch/)
-- 💬 I am currently as a fullstack javascript developer at Brixel
+- 💬 I am currently as a fullstack javascript developer at Hoist Group
 - 🤝 Where to connect: [twitter.com/ehgalter](https://www.twitter.com/ehgalter)
 
 -------
