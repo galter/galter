@@ -5,9 +5,9 @@
 ![Linkedin Badge](https://img.shields.io/badge/-cicerogalter-3370cc?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/cicerogalter)
 ![Gmail Badge](https://img.shields.io/badge/-ehgalter@gmail.com-3370cc?style=flat&logo=Gmail&logoColor=white&link=mailto:ehgalter@gmail.com)
 
-- 💼 I work at [Hoist Group](https://www.brixel.ch**/)
-- 💬 I am currently as a fullstack javascript developer at Hoist Group
-- 🤝 Where to connect: [twitter.com/ehgalter](https://www.twitter.com/ehgalter)
+- 💼  I work at [Hoist Group](https://www.brixel.ch**/)
+- 💬  I am currently as a fullstack javascript developer at Hoist Group
+- 🤝  Where to connect: [twitter.com/ehgalter](https://www.twitter.com/ehgalter)
 
 <div>
   <a href="https://github.com/galter">
