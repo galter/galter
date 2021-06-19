@@ -2,8 +2,8 @@
 
 
 ![Twitter Badge](https://img.shields.io/badge/-@ehgalter-3370cc?style=flat&labelColor=3370cc&logo=twitter&logoColor=white&link=https://twitter.com/ehgalter)
-[![Linkedin Badge](https://img.shields.io/badge/-cicerogalter-3370cc?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/cicerogalter)][linkedin]
-[![Gmail Badge](https://img.shields.io/badge/-ehgalter@gmail.com-3370cc?style=flat&logo=Gmail&logoColor=white&link=mailto:ehgalter@gmail.com)][mail]
+![Linkedin Badge](https://img.shields.io/badge/-cicerogalter-3370cc?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/cicerogalter)[linkedin]
+![Gmail Badge](https://img.shields.io/badge/-ehgalter@gmail.com-3370cc?style=flat&logo=Gmail&logoColor=white&link=mailto:ehgalter@gmail.com)[mail]
 
 - 💼 I work at [Hoist Group](https://www.brixel.ch**/)
 - 💬 I am currently as a fullstack javascript developer at Hoist Group
