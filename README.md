@@ -6,7 +6,7 @@
 
 - 💼  I work at [Boost-IT](https://boost-it.pt/pt/)
 - 💬  I am currently as a fullstack javascript developer at Boost-IT
-- 🤝  Where to connect: [[twitter.com/ehgalter]([hhttps://www.instagram.com/ehgalter/)](https://www.instagram.com/ehgalter/)
+- 🤝  Where to connect: [https://www.instagram.com/ehgalter/](https://www.instagram.com/ehgalter/)
 
 <div>
   <a href="https://github.com/galter">
