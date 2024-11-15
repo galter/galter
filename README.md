@@ -4,8 +4,8 @@
 ![Linkedin Badge](https://img.shields.io/badge/-cicerogalter-3370cc?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/cicerogalter)
 ![Gmail Badge](https://img.shields.io/badge/-ehgalter@gmail.com-3370cc?style=flat&logo=Gmail&logoColor=white&link=mailto:ehgalter@gmail.com)
 
-- 💼  I work at [OnePulse](https://www.onepulse.com/)
-- 💬  I am currently as a fullstack javascript developer at OnePulse
+- 💼  I work at [Boost-IT](https://boost-it.pt/pt/)
+- 💬  I am currently as a fullstack javascript developer at Boost-IT
 - 🤝  Where to connect: [twitter.com/ehgalter](https://www.twitter.com/ehgalter)
 
 <div>
