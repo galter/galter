@@ -1,7 +1,6 @@
 ## Hello, I'm Cicero Galter 👋🚀
 
 
-![Twitter Badge](https://img.shields.io/badge/-@ehgalter-3370cc?style=flat&labelColor=3370cc&logo=twitter&logoColor=white&link=https://twitter.com/ehgalter)
 ![Linkedin Badge](https://img.shields.io/badge/-cicerogalter-3370cc?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/cicerogalter)
 ![Gmail Badge](https://img.shields.io/badge/-ehgalter@gmail.com-3370cc?style=flat&logo=Gmail&logoColor=white&link=mailto:ehgalter@gmail.com)
 
